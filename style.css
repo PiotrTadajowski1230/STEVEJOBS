@@ -1,0 +1,22 @@
+body{
+    background: rgb(255,23,0);
+    background: radial-gradient(circle, rgba(255,23,0,1) 0%, rgba(66,112,177,1) 100%);
+}
+
+.navigacja {
+    display: flex;
+
+    gap: 30px;
+
+}
+
+img {
+    height: 200px;
+}
+
+
+.czcionka {
+font-size: 350%;
+}
+
+
